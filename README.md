@@ -5,7 +5,7 @@
 </span>
 
 
-### Patches for Beta versions are provided but no support is given until the OS is released. <br /><br />Try these patches at your own risk and always have a backup EFI to boot.
+### Patches for Beta versions are provided but no support is given for beta versions until the OS is released. <br /><br />Try these patches at your own risk and always have a backup EFI to boot.
 
   
 
